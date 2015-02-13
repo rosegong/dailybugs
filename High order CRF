@@ -1,0 +1,4 @@
+In order to use viterbi algorithm, we have two restrictions to the graph as below.
+
+Part: counts how often a particular configuration occurs for a clique in the CRF graph.
+Clique:  a set of completely connected nodes in a graph.  That is, each node in the clique has an edge connecting it to every other node in the clique.
